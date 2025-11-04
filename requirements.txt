@@ -1,6 +1,6 @@
 flask
 flask-cors
-tensorflow==2.17.0
+tensorflow==2.20.0
 opencv-python-headless
 pillow
 numpy
